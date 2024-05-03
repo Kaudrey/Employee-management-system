@@ -5,3 +5,7 @@
 .bgMain{
   background-image: url('/public/employee1.webp');
 }
+
+.bgSignup{
+  background-image: url('/public/employee3.jpeg');
+}
