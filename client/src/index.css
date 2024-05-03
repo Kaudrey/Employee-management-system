@@ -1,3 +1,7 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+.bgMain{
+  background-image: url('/public/employee1.webp');
+}
